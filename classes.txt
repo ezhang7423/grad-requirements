@@ -1,0 +1,220 @@
++ Anthropology 2 Introductory Cultural Anthropology
+ *+ Anthropology 3 Introductory Archaeology
+ + Anthropology 3SS Introduction to Archaeology
+ Anthropology 7 Introduction to Biosocial Anthropology
+ *+ Anthropology 25 Violence and the Japanese State
+ + Anthropology 103A Anthropology of China
+ + Anthropology 103B Anthropology of Japan
+ + Anthropology 103C Anthropology of Korea
+ Anthropology 109 Human Universals
+ + Anthropology 110 Technology and Culture
+ * + Anthropology 122 Anthropology of World Systems
+ + Anthropology 130A Coupled Human and Natural Systems: Risks,
+ Vulnerability, Resilience, and Disasters
+ + Anthropology 130B Global Tourism and Environmental Conservation
+@ + Anthropology 131 North American Indians
+ + Anthropology 134 Modern Cultures of Latin America
+ * + Anthropology 135 Modern Mexican Culture
+ + Anthropology 136 Peoples and Cultures of the Pacifi c
+ + Anthropology 137 The Ancient Maya
+ * + Anthropology 141 Agriculture and Society in Mexico: Past and
+ Present
+ + Anthropology 142 Peoples and Cultures of India
+ + Anthropology 156 Understanding Africa
+ *+ Anthropology 176 Representations of Sexuality in Modern Japan
+ (Same as HIST 188S and JAPAN 162)
+ & Anthropology 191 Indigenous Movements in Asia
+@ & Asian American Studies 1 Introduction to Asian American History,
+ 1850-Present
+@ & Asian American Studies 2 American Migration since 1965
+ & Asian American Studies 7 Asian American Globalization
+ & Asian American Studies 8 Introduction to Asian American Gender and
+ Sexuality
+ & Asian American Studies 9 Asian American Freedom Struggles and Third
+ World Resistance
+ & Asian American Studies 100AA Chinese Americans
+ &* Asian American Studies 100BB Japanese Americans
+ & * Asian American Studies 100FF South Asian Americans
+ & Asian American Studies 107 Third World Social Movements
+ & * Asian American Studies 111 Asian American Communities and
+ Contemporary Issues
+ & Asian American Studies 119 Asian Americans and Race Relations
+ & Asian American Studies 130 Colonialism and Migration in the Passage to
+ America
+ & * Asian American Studies 131 Asian American Women’s History
+ & * Asian American Studies 136 Asian American Families
+ & * Asian American Studies 137 Multiethnic Asian Americans
+ & Asian American Studies 154 Race and Law in Early American History
+ & Asian American Studies 155 Racial Segregation from the Civil War to the
+ Civil Rights Movement
+ & Asian American Studies 156 Race and Law in Modern America
+ & Asian American Studies 157 Asian Americans and Education
+ & Asian American Studies 165 Ethnographies of Asian Americans
+@ & * Black Studies 1, 1H Introduction to Afro-American Studies
+ & Black Studies 4 Critical Introduction to Race and Racism
+@ & * Black Studies 6, 6H The Civil Rights Movement
+ Black Studies 100 Africa and United States Policy
+ & * Black Studies 102 Black Radicals and the Radical Tradition
+@ & * Black Studies 103 The Politics of Black Liberation-The Sixties
+ & Black Studies 122 The Education of Black Children
+ * Black Studies 124 Housing, Inheritance and Race
+ * Black Studies 125 Queer Black Studies
+ & * Black Studies 129 The Urban Dilemma
+ & * Black Studies 131 Race and Public Policy
+ & * Black Studies 160 Analyses of Racism and Social Policy in the U.S.
+@ & * Black Studies 169AR-BR-CR Afro-American History (Same as
+ HIST 169AR-BR-CR)
+ * + Black Studies 171 Africa in Film
+ * Black Studies 174 From Plantations to Prisons
+@ & * Chicano Studies 1A-B-C Introduction to Chicano/a Studies
+ Chicano Studies 114 Cultural and Critical Theory
+ & Chicano Studies 124G The Virgin of Guadalupe: From Tilma to Tattoo
+ (Same as RG ST 124G)
+ & Chicano Studies 137 Chicana/o Oral Traditions
+ & Chicano Studies 140 The Mexican Cultural Heritage of the Chicano
+@&* Chicano Studies 144 The Chicano Community
+ & Chicano Studies 151 De-Colonizing Feminism
+@ & Chicano Studies 168A-B History of the Chicano (Same as HIST 168A-B)
+ & * Chicano Studies 172 Law and Civil Rights
+ & Chicano Studies 173 Immigrant Labor Organizing
+@ & Chicano Studies 174 Chicano/a Politics (Same as POL S 174)
+ & * Chicano Studies 175 Comparative Social Movements
+ Chicano Studies 176 Theories of Social Change and Chicano
+ Political Life
+ & Chicano Studies 178A Global Migration, Transnationalism in
+ Chicano/a Contexts
+ * Chicano Studies 179 Democracy and Diversity
+ &* Chicano Studies 187 Language, Power, and Learning
+ * Communication 1 Introduction to Communication
+ * Comparative Literature 119 Psychoanalytic Theory
+ * ^ Comparitive Literature 186FL Vegetarianism: Food, Literature, Philosophy
+ + East Asian Cultural Gender and Sexuality in Modern Asia
+ Studies 40
+ + East Asian Cultural Anthropology of China
+ Studies 103A
+ + East Asian Cultural Anthropology of Japan
+ Studies 103B
+ + East Asian Cultural Anthropology of Contemporary Korea
+ Studies 103C
+ & East Asian Cultural Indigenous Movements in Asian
+ Studies 140
+ + East Asian Cultural The Invention of Tradition in Contemporary
+ Studies 186 East Asia
+ Economics 1 Principles of Economics - Micro
+ Economics 2 Principles of Economics - Macro
+ Economics 9 Introduction to Economics
+ * Environmental Studies 1 Introduction to Environmental Studies
+ + Environmental Studies 130A Coupled Human and Natural Systems: Risk,
+ Vulnerability, Resilience, and Disasters
+ + Environmental Studies 130B Global Tourism and Environmental
+ Conservation
+ Environmental Studies 132 Human Behavior and Global Environment
+ * Feminist Studies 20 or 20H Women, Society and Culture
+ * Feminist Studies W20 Women, Society and Culture (Online course)
+ * + Feminist Studies 30 or 30H Women, Development, and Globalization
+ * Feminist Studies 50 or 50H Global Feminisms and Social Justice
+ & * Feminist Studies 60 or 60H Women of Color: Race, Class and Ethnicity
+@ * Feminist Studies 159B Women in American History (Same as
+ HIST 159B)
+@ * Feminist Studies 159C Women in Twentieth-Century American
+ History (Same as HIST 159C)
+ French 111 Greatest French Speeches
+ +French 151G Globalization and Development in the Francosphere
+ +French 154L Globalization and Development in the Francosphere
+ + Geography 2 World Regions
+ Geography 5 People, Place and Environment
+ Geography 20 Geography of Surfi ng
+ Geography 108 Urban Geography
+ * Geography 108E Urban Geography
+ Geography 150 Geography of the United States
+ Global Studies 2 Global Socioeconomic and Political Processes
+ Global Studies 11 Introduction to Law and Society
+ * History 5 The History of the Present
+ * History 7 Great Issues in the History of Public Policy
+@ & * History 11A History of America’s Racial and Ethnic
+ Minorities
+@ * History 17A-B-C The American People
+@ * History 17AH-BH-CH The American People (Honors)
+ * + History 25 Violence and the Japanese State
+ * History 74 Poverty, Inequality and Social Justice
+ in Historical and Global Context
+@ History 105A The Atomic Age
+ * History 117A Towns, Trade, and Urban Culture in the
+ Middle Ages
+ *^ History 117C Women, the Family, and Sexuality in the
+ Middle Ages (Same as FEMST 117C &
+ ME ST 100A)
+ & * History 144J Race and Juvenile Justice in U.S. History
+ & * History 144C Chicanas and Latinas in U.S. History
+@ * History 159B-C Women in American History (Same as
+ FEMST 159B-C)
+@ & History 161A-B Colonial and Revolutionary America
+ * History 167CA-CB-CP History of American Working Class
+@ & History 168A-B History of the Chicanos (Same as CH ST
+ 168A-B)
+@ & * History 169AR-BR-CR Afro-American History (Same as BL ST
+ 169AR-BR-CR)
+@ * History 172A-B Politics and Public Policy in the United States
+@ History 175A-B American Cultural History
+ * + History 188S Representations of Sexuality in Modern Japan
+ * Italian 161AX The European Union
+ *+ Japanese 25 Violence and the Japanese State (Same as
+ ANTH 25)
+ *+ Japanese 63 Sociology of Japan
+ *+ Japanese 162 Representations of Sexuality in Modern Japan
+ Linguistics 20 Language and Linguistics
+ & Linguistics 36 African-American English
+ * Linguistics 70 Language in Society
+ Linguistics 130 Language as Culture
+ * Linguistics 132 Language, Gender, and Sexuality
+ & * Linguistics 136 African American Language and Culture
+ * Linguistics 170 Language in Social Interaction
+ & * Linguistics 180 Language in American Ethnic Minorities
+ &* Linguistics 187 Language, Power, and Learning
+@ * Military Science 27 American Military History and the Evolution
+ of Western Warfare
+ *+ Music 175E Music Cultures of the World: China
+ *+ Music 175F Music Cultures of the World: Middle East
+ * + Music 175G Music Cultures of the World: India
+ + Music 175I Music Cultures of the World: Indonesia
+@ * Political Science 12 American Government and Politics
+@ * Political Science 115 Courts, Judges and Politics
+ * Political Science 121 International Politics
+ * Political Science 145 The European Union
+ Political Science 150A Politics of the Middle East
+@ Political Science 151 Voting and Elections
+@ * Political Science 155 Congress
+ Psychology 1 Introduction to Psychology
+ Psychology 101 Health Psychology
+ Psychology 102 Introduction to Social Psychology
+ Psychology 103 Introduction to Psychopathology
+ Psychology 105 Developmental Psychology
+@ * Religious Studies 7 Introduction to American Religion
+@ & * Religious Studies 14 Introduction to Native American Religious
+ Studies
+ * Religious Studies 15 Religion and Psychology
+ * Religious Studies 35 Introduction to Religion and Politics
+ Religious Studies 115A Literature and Religion of the Hebrew Bible/
+ Old Testament
+ & Religious Studies 124G The Virgin of Guadalupe: From Tilma to
+ Tattoo (Same as CH ST 124G)
+ + Religious Studies 131H Politics and Religion in the City: Jerusalem
+ * Religious Studies 141A Sociology of Religion: The Classical
+ Statements
+ * Religious Studies 147 Religion and the American Experience
+@ * Religious Studies 151A-B Religion in American History
+@ * Religious Studies 152 Religion in America Today
+ + Religious Studies 156A Anthropology of Religion
+ & * Religious Studies 162F South Asians in the U.S.
+ * Slavic 152A Slavic and East European Folklore
+ * Slavic 152B Language and Cultural Identity
+ * Slavic 152C Ideology and Representation
+ Sociology 1 Introduction to Sociology
+
+ Sociology 131 Political Sociology
+ * Sociology 134 Social Movements
+@ & * Sociology 144 The Chicano Community (Same as
+ CH ST 144)
+ Sociology 152A Sociology of Human Sexuality
+ & * Sociology 153 Women and Work (Same as FEMST 153)
+ *+ Spanish 178 Mexican Culture
