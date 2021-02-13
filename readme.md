@@ -1,5 +1,13 @@
 # beamer
 
+## INTERESTING
+
+@ & * Black Studies 169AR-BR-CR Afro-American History (Same as
+
+@ & History 161A-B Colonial and Revolutionary America
+
+@ & * Religious Studies 14 Introduction to Native American Religious
+
 FOUND THESE CLASSES:
 
 @ & Asian American Studies 1 Introduction to Asian American History,
