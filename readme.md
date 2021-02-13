@@ -1,6 +1,7 @@
 # beamer
 
 FOUND THESE CLASSES:
+
 @ & Asian American Studies 1 Introduction to Asian American History,
 
 @ & Asian American Studies 2 American Migration since 1965
@@ -23,7 +24,7 @@ FOUND THESE CLASSES:
 
 @ & * Chicano Studies 1A-B-C Introduction to Chicano/a Studies
 
-@&* Chicano Studies 144 The Chicano Community
+@ & * Chicano Studies 144 The Chicano Community
 
 @ & * History 11A History of Americaâ€™s Racial and Ethnic
 
