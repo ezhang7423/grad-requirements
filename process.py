@@ -1,6 +1,6 @@
 FILTERS = ['@', '&']
-# AVOID = ['*']
-AVOID = []
+AVOID = ['*']
+# AVOID = []
 
 def not_wanted(clas):
     for filter in FILTERS:
